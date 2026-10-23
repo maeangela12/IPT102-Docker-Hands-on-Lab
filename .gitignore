@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+bin/
+obj/
+out/
+
+# Environment variables & secrets
+.env
+*.local
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Operating System files
+.DS_Store
+Thumbs.db
